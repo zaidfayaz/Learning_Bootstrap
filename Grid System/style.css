@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+.container{
+    border: 0px solid black;
+}
+.row{
+    border: 0px solid red;
+}
+
+#header{
+    background-color:rgb(23, 112, 201);
+    text-align: center;
+    color: white;
+    
+}
+#menu{
+    background-color: pink;
+    padding: 4px 0;
+   
+}
+#menu ul {
+    list-style-type: none;
+    margin: 7PX;
+}
+#menu ul li  {
+   
+    display: inline;
+    margin: 5px;
+ 
+}
+#menu ul li a {
+    text-decoration: none;
+ 
+}
+
+
+#content{
+    background-color: white;
+}
+#sidebar{
+    background-color: lightblue;
+}
+#sidebar ul li a{
+    text-decoration: none;
+}
+#footer{
+    background-color: orange;
+    
+}
+#footer p {
+    text-align: center;
+    margin: 3px;
+}
